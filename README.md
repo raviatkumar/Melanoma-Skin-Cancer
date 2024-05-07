@@ -1,7 +1,5 @@
 # Project Name : Melanoma Skin Cancer
 
-![Alt text](https://raw.githubusercontent.com/raviatkumar/Melanoma-Skin-Cancer/master/Image/skin_care.jpg)
-
 ## User Guide
 
 ### Serving Deep Learning Model through API
