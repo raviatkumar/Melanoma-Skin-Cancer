@@ -1,4 +1,6 @@
-# Project Name : Melanoma Skin Cancer
+# Project Name : Melanoma Skin Cancer 
+
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Melanoma-Skin-Cancer/refs/heads/master/Image/skin_care.jpg)
 
 ## User Guide
 
